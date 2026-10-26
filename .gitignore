@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.out
+
+# VS Code local settings (keep shared settings if desired)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Temporary/test files
+sample.txt
+sample.txt.fet
+restored.txt
